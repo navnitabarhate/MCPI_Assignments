@@ -1,0 +1,6 @@
+../Src/lcd.c:36:6:LcdWrite.constprop	5
+../Src/lcd.c:5:6:LcdBusyWait	2
+../Src/lcd.c:21:6:LcdWriteNibble	3
+../Src/lcd.c:36:6:LcdWrite	7
+../Src/lcd.c:47:6:LcdInit	4
+../Src/lcd.c:85:6:LcdPuts	7
